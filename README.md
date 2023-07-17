@@ -14,3 +14,7 @@ the more adventurous, have a bash at JPeerGen which does the job for you automat
 
 The code is open source. In the spirit of this, if you further develop the code, you should make your code
 available for free. Otherwise, use it as an example and build your own version based on what you see.
+
+2023 update
+Given hypertrader is no longer available, this project serves solely as a demonstration of using JNI to
+access native code.
