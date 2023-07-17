@@ -1,0 +1,1 @@
+These files will help you set up a Dev_Cpp project to build the intermediate DLL used by the JNI.
